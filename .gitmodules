@@ -1,0 +1,6 @@
+[submodule "myjdk"]
+	path = myjdk
+	url = https://github.com/lostdj/Jaklin-OpenJDK-JDK.git
+[submodule "myjdkjaxp"]
+	path = myjdkjaxp
+	url = https://github.com/lostdj/Jaklin-OpenJDK-JAXP.git
